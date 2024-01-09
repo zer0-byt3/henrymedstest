@@ -8,7 +8,7 @@ Client-Side Logic
 Developer Notes
 
 Introduction
-The Reservation System is a web application designed to allow clients to view and reserve appointment slots provided by various service providers. It provides two user roles: clients and providers. Clients can view available appointment slots, select one, and confirm their reservation. Providers can add available time slots for clients to reserve.
+The Henry Meds Appointment System is a web application designed to allow clients to view and reserve appointment slots provided by various service providers. It provides two user roles: clients and providers. Clients can view available appointment slots, select one, and confirm their appointment. Providers can add available time slots for clients to reserve.
 
 Folder Structure
 src: Contains the source code for the frontend application.
@@ -25,7 +25,7 @@ public: Static assets and HTML template.
 README.md: Documentation for the project.
 
 Usage
-Clone the repository: git clone https://github.com/yourusername/reservation-system.git
+Clone the repository: git clone https://github.com/zer0-byt3/henrymedstest.git
 Navigate to the project folder: cd reservation-system
 Install dependencies: npm install
 Start the development server: npm start
